@@ -1,0 +1,36 @@
+Data management and cleaning
+
+garbage in, garbage out (GIGO)
+
+
+Handling missing values
+
+processing outliers
+
+Standardization and normalization - ex. 0-1
+
+data conversion 
+
+------------------
+
+Normalize (ex. 0-1)
+
+example:
+
+user 1: 160 cm
+
+user 2: 175 cm
+
+user 3: 180 cm
+
+
+Max-value = 180 cm
+
+how to use max-value for normalization?
+
+user 1: 160/180   -> 0.89
+
+user 2: 175/180 -> 0.97
+
+user 3: 180/180 -> 1
+
